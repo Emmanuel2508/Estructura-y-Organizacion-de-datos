@@ -1,0 +1,14 @@
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.AssemblyInfo.cs
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\bin\Debug\net8.0\Listas con objetos.exe
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\bin\Debug\net8.0\Listas con objetos.deps.json
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\bin\Debug\net8.0\Listas con objetos.runtimeconfig.json
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\bin\Debug\net8.0\Listas con objetos.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\bin\Debug\net8.0\Listas con objetos.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\refint\Listas con objetos.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\Listas con objetos.genruntimeconfig.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Listas con objetos\Listas con objetos\obj\Debug\net8.0\ref\Listas con objetos.dll
