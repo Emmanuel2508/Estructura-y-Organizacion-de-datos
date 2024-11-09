@@ -1,0 +1,14 @@
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\bin\Debug\net8.0\Examen unidad 3 Arbol binario.exe
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\bin\Debug\net8.0\Examen unidad 3 Arbol binario.deps.json
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\bin\Debug\net8.0\Examen unidad 3 Arbol binario.runtimeconfig.json
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\bin\Debug\net8.0\Examen unidad 3 Arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\bin\Debug\net8.0\Examen unidad 3 Arbol binario.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.AssemblyInfo.cs
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\refint\Examen unidad 3 Arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\Examen unidad 3 Arbol binario.genruntimeconfig.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Examen unidad 3 Arbol binario\Examen unidad 3 Arbol binario\obj\Debug\net8.0\ref\Examen unidad 3 Arbol binario.dll
