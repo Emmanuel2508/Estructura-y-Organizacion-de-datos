@@ -1,0 +1,14 @@
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\bin\Debug\net8.0\Recoridos arbol binario.exe
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\bin\Debug\net8.0\Recoridos arbol binario.deps.json
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\bin\Debug\net8.0\Recoridos arbol binario.runtimeconfig.json
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\bin\Debug\net8.0\Recoridos arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\bin\Debug\net8.0\Recoridos arbol binario.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.AssemblyInfoInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.AssemblyInfo.cs
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\refint\Recoridos arbol binario.dll
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.pdb
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\Recoridos arbol binario.genruntimeconfig.cache
+C:\Users\Emmanuel\Documents\C#\ITA\Recoridos arbol binario\Recoridos arbol binario\obj\Debug\net8.0\ref\Recoridos arbol binario.dll

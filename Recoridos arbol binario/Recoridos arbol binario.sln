@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recoridos arbol binario", "Recoridos arbol binario\Recoridos arbol binario.csproj", "{C94F688F-00B0-4205-884E-CAD838C6FB3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94F688F-00B0-4205-884E-CAD838C6FB3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94F688F-00B0-4205-884E-CAD838C6FB3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94F688F-00B0-4205-884E-CAD838C6FB3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94F688F-00B0-4205-884E-CAD838C6FB3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1E11A4-7164-4273-9A68-2E9C4D4660FF}
+	EndGlobalSection
+EndGlobal
